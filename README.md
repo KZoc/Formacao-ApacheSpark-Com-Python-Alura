@@ -1,7 +1,7 @@
 # Formacao ApacheSpark Com Python Alura
 
-Neste repositório estão alguns notebooks dos cursos da formação de Apache Spark com Python ministrado pela Alura.
-Esses notebooks foram preenchidos por mim com os códigos ao longo das aulas.
+Neste repositório estão alguns notebooks que fiz ao longo dos cursos, dentro da Formação de Apache Spark com Python, ministrados pela Alura.
+
 
 ## 1- Regressão com Spark para preços de imóveis
 
